@@ -61,12 +61,38 @@ python Ejercicio-001.py
 
 ## 📋 Progreso
 
-| Sección | Estado |
-|---------|--------|
-| 01_basico | ✅ Completado (001-013) |
-| 02_funciones | 🔄 Parcial (014-021) |
-| 03_estructuras_datos | ⏳ Pendiente |
-| ... | ⏳ Pendiente |
+### 📊 Barra de Progreso
+
+```
+████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  21/400 (5.25%)
+```
+
+**Ejercicios completados:** 21 | **Ejercicios restantes:** 379
+
+---
+
+| Sección | Estado | Ejercicios |
+|---------|--------|----------|
+| 01_basico | ✅ Completado | 001-013 |
+| 02_funciones | 🔄 En progreso | 014-036 |
+| 03_estructuras_datos | ⏳ Pendiente | 037-063 |
+| 04_estructuras_avanzadas | ⏳ Pendiente | 064-090 |
+| 05_validaciones | ⏳ Pendiente | 091-117 |
+| 06_funciones_avanzadas | ⏳ Pendiente | 118-144 |
+| 07_recursividad | ⏳ Pendiente | 145-171 |
+| 08_pilas_colas | ⏳ Pendiente | 172-198 |
+| 09_poo | ⏳ Pendiente | 199-225 |
+| 10_estructuras_complejas | ⏳ Pendiente | 226-252 |
+| 11_arboles | ⏳ Pendiente | 253-279 |
+| 12_recursividad_avanzada | ⏳ Pendiente | 280-306 |
+| 13_pilas_colas_avanzado | ⏳ Pendiente | 307-333 |
+| 14_grafos | ⏳ Pendiente | 334-360 |
+| 15_matrices | ⏳ Pendiente | 361-387 |
+| 16_hash | ⏳ Pendiente | 388-414 |
+| 17_archivos | ⏳ Pendiente | 415-441 |
+| 18_data_analysis | ⏳ Pendiente | 442-468 |
+| 19_machine_learning | ⏳ Pendiente | 469-495 |
+| 20_inteligencia_artificial | ⏳ Pendiente | 496-522 |
 
 ---
 
