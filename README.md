@@ -64,17 +64,17 @@ python Ejercicio-001.py
 ### 📊 Barra de Progreso
 
 ```
-████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  21/400 (5.25%)
+████████████████████████████████████████████░░░░░░░  36/400 (9.0%)
 ```
 
-**Ejercicios completados:** 21 | **Ejercicios restantes:** 379
+**Ejercicios completados:** 36 | **Ejercicios restantes:** 364
 
 ---
 
 | Sección | Estado | Ejercicios |
 |---------|--------|----------|
 | 01_basico | ✅ Completado | 001-013 |
-| 02_funciones | 🔄 En progreso | 014-036 |
+| 02_funciones | ✅ Completado | 014-036 |
 | 03_estructuras_datos | ⏳ Pendiente | 037-072 |
 | 04_estructuras_avanzadas | ⏳ Pendiente | 073-107 |
 | 05_validaciones | ⏳ Pendiente | 108-127 |
