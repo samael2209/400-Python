@@ -63,7 +63,7 @@ python Ejercicio-001.py
 
 ### 📊 Barra de Progreso
 
-![Progreso](https://img.shields.io/badge/Progreso-9%25-red)
+![Progreso](https://progress-bar.xyz/9/)
 
 **Ejercicios completados:** 36/400 | **Faltantes:** 364
 
