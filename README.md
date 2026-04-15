@@ -63,11 +63,9 @@ python Ejercicio-001.py
 
 ### 📊 Barra de Progreso
 
-```
-████████████████████████████████████████████░░░░░░░  36/400 (9.0%)
-```
+![Progreso](https://img.shields.io/badge/Progreso-9%25-red)
 
-**Ejercicios completados:** 36 | **Ejercicios restantes:** 364
+**Ejercicios completados:** 36/400 | **Faltantes:** 364
 
 ---
 
