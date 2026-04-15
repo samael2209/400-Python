@@ -35,21 +35,21 @@ En esta sección aprendemos a crear y utilizar funciones en Python:
 | 019 | `Ejercicio-019.py` | Área y perímetro de circunferencia |
 | 020 | `Ejercicio-020.py` | Sistema de login con intentos |
 | 021 | `Ejercicio-021.py` | Factorial recursivo |
-| 022 | `Ejercicio-022.py` | Conversión de temperaturas |
-| 023 | `Ejercicio-023.py` | Números primos |
-| 024 | `Ejercicio-024.py` | Serie de Fibonacci |
-| 025 | `Ejercicio-025.py` | Contador de vocales |
-| 026 | `Ejercicio-026.py` | Calculadora básica |
-| 027 | `Ejercicio-027.py` | Validación de email |
-| 028 | `Ejercicio-028.py` | Conversiónbinario-decimal |
-| 029 | `Ejercicio-029.py` | Potencia recursiva |
-| 030 | `Ejercicio-030.py` | Valores por defecto |
-| 031 | `Ejercicio-031.py` | Args y kwargs |
-| 032 | `Ejercicio-032.py` | Funciones lambda |
-| 033 | `Ejercicio-033.py` | Map y filter |
-| 034 | `Ejercicio-034.py` | Reduce |
-| 035 | `Ejercicio-035.py` | Decoradores |
-| 036 | `Ejercicio-036.py` | Generadores |
+| 022 | `Ejercicio-022.py` | MCD de dos números (método de Euclides) |
+| 023 | `Ejercicio-023.py` | Conversión segundos ↔ horas/minutos/segundos |
+| 024 | `Ejercicio-024.py` | Día juliano de una fecha |
+| 025 | `Ejercicio-025.py` | Validar fecha |
+| 026 | `Ejercicio-026.py` | Fracciones a/b |
+| 027 | `Ejercicio-027.py` | Función max() personalizada |
+| 028 | `Ejercicio-028.py` | Máximo de tres números |
+| 029 | `Ejercicio-029.py` | Longitud de lista o cadena |
+| 030 | `Ejercicio-030.py` | Verificar vocal |
+| 031 | `Ejercicio-031.py` | Sum() y multip() de lista |
+| 032 | `Ejercicio-032.py` | Invertir cadena |
+| 033 | `Ejercicio-033.py` | Verificar palíndromo |
+| 034 | `Ejercicio-034.py` | Superposición de listas |
+| 035 | `Ejercicio-035.py` | Generar n caracteres |
+| 036 | `Ejercicio-036.py` | Histograma |
 
 ---
 
