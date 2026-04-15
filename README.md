@@ -75,24 +75,24 @@ python Ejercicio-001.py
 |---------|--------|----------|
 | 01_basico | ✅ Completado | 001-013 |
 | 02_funciones | 🔄 En progreso | 014-036 |
-| 03_estructuras_datos | ⏳ Pendiente | 037-063 |
-| 04_estructuras_avanzadas | ⏳ Pendiente | 064-090 |
-| 05_validaciones | ⏳ Pendiente | 091-117 |
-| 06_funciones_avanzadas | ⏳ Pendiente | 118-144 |
-| 07_recursividad | ⏳ Pendiente | 145-171 |
-| 08_pilas_colas | ⏳ Pendiente | 172-198 |
-| 09_poo | ⏳ Pendiente | 199-225 |
-| 10_estructuras_complejas | ⏳ Pendiente | 226-252 |
-| 11_arboles | ⏳ Pendiente | 253-279 |
-| 12_recursividad_avanzada | ⏳ Pendiente | 280-306 |
-| 13_pilas_colas_avanzado | ⏳ Pendiente | 307-333 |
-| 14_grafos | ⏳ Pendiente | 334-360 |
-| 15_matrices | ⏳ Pendiente | 361-387 |
-| 16_hash | ⏳ Pendiente | 388-414 |
-| 17_archivos | ⏳ Pendiente | 415-441 |
-| 18_data_analysis | ⏳ Pendiente | 442-468 |
-| 19_machine_learning | ⏳ Pendiente | 469-495 |
-| 20_inteligencia_artificial | ⏳ Pendiente | 496-522 |
+| 03_estructuras_datos | ⏳ Pendiente | 037-072 |
+| 04_estructuras_avanzadas | ⏳ Pendiente | 073-107 |
+| 05_validaciones | ⏳ Pendiente | 108-127 |
+| 06_funciones_avanzadas | ⏳ Pendiente | 128-147 |
+| 07_recursividad | ⏳ Pendiente | 148-157 |
+| 08_pilas_colas | ⏳ Pendiente | 158-167 |
+| 09_poo | ⏳ Pendiente | 168-187 |
+| 10_estructuras_complejas | ⏳ Pendiente | 188-207 |
+| 11_arboles | ⏳ Pendiente | 208-227 |
+| 12_recursividad_avanzada | ⏳ Pendiente | 228-237 |
+| 13_pilas_colas_avanzado | ⏳ Pendiente | 238-247 |
+| 14_grafos | ⏳ Pendiente | 248-263 |
+| 15_matrices | ⏳ Pendiente | 264-283 |
+| 16_hash | ⏳ Pendiente | 284-303 |
+| 17_archivos | ⏳ Pendiente | 304-333 |
+| 18_data_analysis | ⏳ Pendiente | 334-348 |
+| 19_machine_learning | ⏳ Pendiente | 349-383 |
+| 20_inteligencia_artificial | ⏳ Pendiente | 384-400 |
 
 ---
 
