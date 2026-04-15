@@ -63,8 +63,8 @@ python Ejercicio-001.py
 
 | Sección | Estado |
 |---------|--------|
-| 01_basico | ✅ Completado |
-| 02_funciones | 🔄 En progreso |
+| 01_basico | ✅ Completado (001-013) |
+| 02_funciones | 🔄 Parcial (014-021) |
 | 03_estructuras_datos | ⏳ Pendiente |
 | ... | ⏳ Pendiente |
 
