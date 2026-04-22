@@ -29,18 +29,18 @@ En esta sección aprendemos sobre listas, tuplas, diccionarios y conjuntos:
 |---|---------|-------------|
 | 037 | `Ejercicio-037.py` | Listas: crear, eliminar, sumatoria, filtrar, tuplas con frecuencia |
 | 038 | `Ejercicio-038.py` | Gestión de pasajeros y ciudades con tuplas |
-| 039 | `Ejercicio-039.py` | Conjuntos: primaria vs secundaria (intersección, diferencia) |
-| 040 | `Ejercicio-040.py` |Diccionarios:domicilios para facturación |
+| 039 | `Ejercicio-039.py` | Conjuntos: primaria vs secundaria |
+| 040 | `Ejercicio-040.py` | Diccionarios para facturación |
 | 041 | `Ejercicio-041.py` | Contador de caracteres en strings |
 | 042 | `Ejercicio-042.py` | Club de socios con diccionarios |
-| 043 | `Ejercicio-043.py` | Carrito de compras |
-| 044 | `Ejercicio-044.py` | Gestor de notas de estudiantes |
-| 045 | `Ejercicio-045.py` | Inventario de productos |
-| 046 | `Ejercicio-046.py` | Diccionario inverso |
-| 047 | `Ejercicio-047.py` | Películas y calificaciones |
-| 048 | `Ejercicio-048.py` | Concursos y participantes |
-| 049 | `Ejercicio-049.py` | Empleados y departamentos |
-| 050 | `Ejercicio-050.py` | Recetario de cocina |
+| 043 | `Ejercicio-043.py` | Contar elementos en una lista |
+| 044 | `Ejercicio-044.py` | Calcular promedio de calificaciones |
+| 045 | `Ejercicio-045.py` | Filtrar diccionario por valor |
+| 046 | `Ejercicio-046.py` | Unir dos diccionarios |
+| 047 | `Ejercicio-047.py` | Contar palabras en un texto |
+| 048 | `Ejercicio-048.py` | Eliminar duplicados de lista |
+| 049 | `Ejercicio-049.py` | Valor mínimo y máximo en diccionario |
+| 050 | `Ejercicio-050.py` | Eliminar claves por umbral |
 | 051 | `Ejercicio-051.py` | Agenda de contactos |
 | 052 | `Ejercicio-052.py` | Estadísticas de ventas |
 | 053 | `Ejercicio-053.py` | Conversor de moneda |
