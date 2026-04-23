@@ -46,6 +46,13 @@ En esta sección aprendemos sobre listas, tuplas, diccionarios y conjuntos:
 | 053 | `Ejercicio-053.py` | Diccionario anidado CRUD |
 | 054 | `Ejercicio-054.py` | Contar vocales |
 | 055 | `Ejercicio-055.py` | Ordenar diccionario |
+| 056 | `Ejercicio-056.py` | Verificar diccionario vacío |
+| 057 | `Ejercicio-057.py` | Buscar clave en diccionario |
+| 058 | `Ejercicio-058.py` | Eliminar clave |
+| 059 | `Ejercicio-059.py` | Diccionario de contactos |
+| 060 | `Ejercicio-060.py` | Unir listas en diccionario |
+| 061 | `Ejercicio-061.py` | Diccionario de frecuencias |
+| 062 | `Ejercicio-062.py` | Diccionario de traducción |
 | 051 | `Ejercicio-051.py` | Agenda de contactos |
 | 052 | `Ejercicio-052.py` | Estadísticas de ventas |
 | 053 | `Ejercicio-053.py` | Conversor de moneda |
