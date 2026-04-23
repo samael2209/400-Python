@@ -41,6 +41,11 @@ En esta sección aprendemos sobre listas, tuplas, diccionarios y conjuntos:
 | 048 | `Ejercicio-048.py` | Eliminar duplicados de lista |
 | 049 | `Ejercicio-049.py` | Valor mínimo y máximo en diccionario |
 | 050 | `Ejercicio-050.py` | Eliminar claves por umbral |
+| 051 | `Ejercicio-051.py` | Invertir diccionario |
+| 052 | `Ejercicio-052.py` | Histograma de letras |
+| 053 | `Ejercicio-053.py` | Diccionario anidado CRUD |
+| 054 | `Ejercicio-054.py` | Contar vocales |
+| 055 | `Ejercicio-055.py` | Ordenar diccionario |
 | 051 | `Ejercicio-051.py` | Agenda de contactos |
 | 052 | `Ejercicio-052.py` | Estadísticas de ventas |
 | 053 | `Ejercicio-053.py` | Conversor de moneda |
