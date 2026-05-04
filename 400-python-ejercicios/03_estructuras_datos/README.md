@@ -53,28 +53,16 @@ En esta sección aprendemos sobre listas, tuplas, diccionarios y conjuntos:
 | 060 | `Ejercicio-060.py` | Unir listas en diccionario |
 | 061 | `Ejercicio-061.py` | Diccionario de frecuencias |
 | 062 | `Ejercicio-062.py` | Diccionario de traducción |
-| 051 | `Ejercicio-051.py` | Agenda de contactos |
-| 052 | `Ejercicio-052.py` | Estadísticas de ventas |
-| 053 | `Ejercicio-053.py` | Conversor de moneda |
-| 054 | `Ejercicio-054.py` | Gestión de biblioteca |
-| 055 | `Ejercicio-055.py` | Cine y programación |
-| 056 | `Ejercicio-056.py` | Chat de mensajes |
-| 057 | `Ejercicio-057.py` | Playlist de música |
-| 058 | `Ejercicio-058.py` | Seguimiento de paquetes |
-| 059 | `Ejercicio-059.py` | Encuesta electoral |
-| 060 | `Ejercicio-060.py` | Registro de temperatura |
-| 061 | `Ejercicio-061.py` | Concursantes y puntuaciones |
-| 062 | `Ejercicio-062.py` | Gimnasio y membresías |
-| 063 | `Ejercicio-063.py` | Hospital y pacientes |
-| 064 | `Ejercicio-064.py` | Operaciones con conjuntos |
-| 065 | `Ejercicio-065.py` | Validación de datos |
-| 066 | `Ejercicio-066.py` | Números aleatorios |
-| 067 | `Ejercicio-067.py` | Tablas de multiplicar |
-| 068 | `Ejercicio-068.py` | Dados y probabilidades |
-| 069 | `Ejercicio-069.py` | Calculadora de matrices |
-| 070 | `Ejercicio-070.py` | Estructura de datos personalizada |
-| 071 | `Ejercicio-071.py` | Pila (LIFO) |
-| 072 | `Ejercicio-072.py` | Cola (FIFO) |
+| 063 | `Ejercicio-063.py` | Registro de ventas diarias |
+| 064 | `Ejercicio-064.py` | Puntuaciones de jugadores |
+| 065 | `Ejercicio-065.py` | Diccionario de estudiantes |
+| 066 | `Ejercicio-066.py` | Inventario de tienda |
+| 067 | `Ejercicio-067.py` | Registro de películas |
+| 068 | `Ejercicio-068.py` | Almacenamiento de recetas |
+| 069 | `Ejercicio-069.py` | Directorio telefónico |
+| 070 | `Ejercicio-070.py` | Registro de compras |
+| 071 | `Ejercicio-071.py` | Registro de viajes |
+| 072 | `Ejercicio-072.py` | Sistema de pedidos restaurante |
 
 ---
 

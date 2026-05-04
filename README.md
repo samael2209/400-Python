@@ -63,9 +63,9 @@ python Ejercicio-001.py
 
 ### 📊 Barra de Progreso
 
-![Progreso](https://progress-bar.xyz/16/)
+![Progreso](https://progress-bar.xyz/18/)
 
-**Ejercicios completados:** 62/400 | **Faltantes:** 338
+**Ejercicios completados:** 72/400 | **Faltantes:** 328
 
 ---
 
