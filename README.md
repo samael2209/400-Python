@@ -73,7 +73,7 @@ python Ejercicio-001.py
 |---------|--------|----------|
 | 01_basico | ✅ Completado | 001-013 |
 | 02_funciones | ✅ Completado | 014-036 |
-| 03_estructuras_datos | 🔄 Parcial | 037-062 |
+| 03_estructuras_datos | ✅ Completado | 037-072 |
 | 04_estructuras_avanzadas | ⏳ Pendiente | 073-107 |
 | 05_validaciones | ⏳ Pendiente | 108-127 |
 | 06_funciones_avanzadas | ⏳ Pendiente | 128-147 |
