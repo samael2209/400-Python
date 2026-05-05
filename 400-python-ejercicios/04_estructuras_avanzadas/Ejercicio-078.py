@@ -28,13 +28,3 @@ def quicksort(arr, low, high):
 quicksort(t, 0, len(t) - 1)
 print(t)
 
-# def quicksort(arr):
-#     if len(arr) <= 1:
-#         return arr
-    
-#     pivote = arr[0][1]
-    
-#     menores = [x for x in arr[1:] if x[1] <= pivote]
-#     mayores = [x for x in arr[1:] if x[1] > pivote]
-    
-#     return quicksort(menores) + [arr[0]] + quicksort(mayores)
