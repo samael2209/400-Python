@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11+-orange?style=for-the-badge&logo=python&logoColor=white)
 ![Level](https://img.shields.io/badge/Level-Avanzado-blue?style=for-the-badge)
-![Exercises](https://img.shields.io/badge/Exercises-73%20to%20107-orange?style=for-the-badge)
+![Exercises](https://img.shields.io/badge/Exercises-073%20to%20092-orange?style=for-the-badge)
 
 </div>
 
@@ -33,20 +33,20 @@ En esta sección aprendemos sobre estructuras de datos avanzadas en Python:
 | 076 | `Ejercicio-076.py` | Claves con valores iguales en dos diccionarios |
 | 077 | `Ejercicio-077.py` | Suma de valores en diccionario anidado |
 | 078 | `Ejercicio-078.py` | Ordenar lista de tuplas por segundo elemento |
-| 079 | `Ejercicio-079.py` | (Por completar) |
-| 080 | `Ejercicio-080.py` | (Por completar) |
-| 081 | `Ejercicio-081.py` | (Por completar) |
-| 082 | `Ejercicio-082.py` | (Por completar) |
-| 083 | `Ejercicio-083.py` | (Por completar) |
-| 084 | `Ejercicio-084.py` | (Por completar) |
-| 085 | `Ejercicio-085.py` | (Por completar) |
-| 086 | `Ejercicio-086.py` | (Por completar) |
-| 087 | `Ejercicio-087.py` | (Por completar) |
-| 088 | `Ejercicio-088.py` | (Por completar) |
-| 089 | `Ejercicio-089.py` | (Por completar) |
-| 090 | `Ejercicio-090.py` | (Por completar) |
-| 091 | `Ejercicio-091.py` | (Por completar) |
-| 092 | `Ejercicio-092.py` | (Por completar) |
+| 079 | `Ejercicio-079.py` | Encontrar la tupla con mayor suma |
+| 080 | `Ejercicio-080.py` | Combinar dos listas de tuplas sin duplicados |
+| 081 | `Ejercicio-081.py` | Dividir lista en pares e impares |
+| 082 | `Ejercicio-082.py` | Encontrar la tupla más común |
+| 083 | `Ejercicio-083.py` | Intersección de conjuntos sin operador & |
+| 084 | `Ejercicio-084.py` | Verificar subconjunto |
+| 085 | `Ejercicio-085.py` | Elementos únicos en un conjunto |
+| 086 | `Ejercicio-086.py` | Unión de múltiples conjuntos |
+| 087 | `Ejercicio-087.py` | Diferencia simétrica entre conjuntos |
+| 088 | `Ejercicio-088.py` | Eliminar duplicados manteniendo orden |
+| 089 | `Ejercicio-089.py` | Encontrar el elemento más repetido |
+| 090 | `Ejercicio-090.py` | Dividir lista en sub-listas de tamaño fijo |
+| 091 | `Ejercicio-091.py` | Rotación a la izquierda en una lista |
+| 092 | `Ejercicio-092.py` | Subsecuencia creciente más larga |
 | 093 | `Ejercicio-093.py` | (Por completar) |
 | 094 | `Ejercicio-094.py` | (Por completar) |
 | 095 | `Ejercicio-095.py` | (Por completar) |
