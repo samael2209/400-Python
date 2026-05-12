@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11+-orange?style=for-the-badge&logo=python&logoColor=white)
 ![Level](https://img.shields.io/badge/Level-Avanzado-blue?style=for-the-badge)
-![Exercises](https://img.shields.io/badge/Exercises-073%20to%20092-orange?style=for-the-badge)
+![Exercises](https://img.shields.io/badge/Exercises-073%20to%20107-orange?style=for-the-badge)
 
 </div>
 
@@ -19,7 +19,7 @@ En esta sección aprendemos sobre estructuras de datos avanzadas en Python:
 | 073-080 | Diccionarios anidados y operaciones |
 | 081-090 | Listas de diccionarios |
 | 091-100 | Estructuras personalizadas |
-| 101-107 | Algoritmos de ordenamiento |
+| 101-107 | Algoritmos de ordenamiento y estructuras
 
 ---
 
@@ -47,28 +47,28 @@ En esta sección aprendemos sobre estructuras de datos avanzadas en Python:
 | 090 | `Ejercicio-090.py` | Dividir lista en sub-listas de tamaño fijo |
 | 091 | `Ejercicio-091.py` | Rotación a la izquierda en una lista |
 | 092 | `Ejercicio-092.py` | Subsecuencia creciente más larga |
-| 093 | `Ejercicio-093.py` | (Por completar) |
-| 094 | `Ejercicio-094.py` | (Por completar) |
-| 095 | `Ejercicio-095.py` | (Por completar) |
-| 096 | `Ejercicio-096.py` | (Por completar) |
-| 097 | `Ejercicio-097.py` | (Por completar) |
-| 098 | `Ejercicio-098.py` | (Por completar) |
-| 099 | `Ejercicio-099.py` | (Por completar) |
-| 100 | `Ejercicio-100.py` | (Por completar) |
-| 101 | `Ejercicio-101.py` | (Por completar) |
-| 102 | `Ejercicio-102.py` | (Por completar) |
-| 103 | `Ejercicio-103.py` | (Por completar) |
-| 104 | `Ejercicio-104.py` | (Por completar) |
-| 105 | `Ejercicio-105.py` | (Por completar) |
-| 106 | `Ejercicio-106.py` | (Por completar) |
-| 107 | `Ejercicio-107.py` | (Por completar) |
+| 093 | `Ejercicio-093.py` | Sistema CRUD con conjuntos en diccionarios |
+| 094 | `Ejercicio-094.py` | Salario promedio de empleados |
+| 095 | `Ejercicio-095.py` | Gestión de películas con actores y fecha |
+| 096 | `Ejercicio-096.py` | Empleado con salario más alto |
+| 097 | `Ejercicio-097.py` | CRUD de productos con revisiones |
+| 098 | `Ejercicio-098.py` | Tupla con valor mínimo y máximo |
+| 099 | `Ejercicio-099.py` | Estudiantes ordenados por calificaciones |
+| 100 | `Ejercicio-100.py` | Validación de correos electrónicos |
+| 101 | `Ejercicio-101.py` | CRUD de ciudades con temperaturas |
+| 102 | `Ejercicio-102.py` | Elemento más común en lista de tuplas |
+| 103 | `Ejercicio-103.py` | Gestión de tareas pendientes por usuario |
+| 104 | `Ejercicio-104.py` | Eliminar duplicados manteniendo orden |
+| 105 | `Ejercicio-105.py` | Lista de invitados con asistencia |
+| 106 | `Ejercicio-106.py` | Intersección de múltiples conjuntos |
+| 107 | `Ejercicio-107.py` | Productos en stock con ubicaciones |
 
 ---
 
 ## 🚀 Cómo Ejecutar
 
 ```bash
-python Ejercicio-073.py
+python Ejercicio-107.py
 ```
 
 ---

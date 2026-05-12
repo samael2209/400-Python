@@ -63,9 +63,9 @@ python Ejercicio-001.py
 
 ### 📊 Barra de Progreso
 
-![Progreso](https://progress-bar.xyz/23/)
+![Progreso](https://progress-bar.xyz/27/)
 
-**Ejercicios completados:** 92/400 | **Faltantes:** 308
+**Ejercicios completados:** 107/400 | **Faltantes:** 293
 
 ---
 
@@ -74,7 +74,7 @@ python Ejercicio-001.py
 | 01_basico | ✅ Completado | 001-013 |
 | 02_funciones | ✅ Completado | 014-036 |
 | 03_estructuras_datos | ✅ Completado | 037-072 |
-| 04_estructuras_avanzadas | 🔄 Parcial | 073-092 |
+| 04_estructuras_avanzadas | ✅ Completado | 073-107 |
 | 05_validaciones | ⏳ Pendiente | 108-127 |
 | 06_funciones_avanzadas | ⏳ Pendiente | 128-147 |
 | 07_recursividad | ⏳ Pendiente | 148-157 |
